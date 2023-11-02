@@ -1,0 +1,21 @@
+{
+  "name": "react-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AMZhukov/react-vite.git"
+  },
+  "keywords": [
+    "react",
+    "vite"
+  ],
+  "author": "Andrey Zhukov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMZhukov/react-vite/issues"
+  },
+  "homepage": "https://github.com/AMZhukov/react-vite#readme"
+}
